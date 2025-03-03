@@ -53,13 +53,13 @@ CryptoNIT is a graphical application for **encrypting and decrypting** text usin
 ### 🇷🇺
 ```bash
 pip install -r requirements.txt
-python cryptoNIT.py
+python RUcryptoNIT.py
 ```
 
 ### 🇬🇧
 ```bash
 pip install -r requirements.txt
-python cryptoNIT.py
+python ENGcryptoNIT.py
 ```
 
 ---
