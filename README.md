@@ -4,7 +4,7 @@
 
 ## 🌍 Описание / Description
 
-### 🇷🇺 CryptoNIT - Удобное шифрование для всех! 🔐
+### CryptoNIT - Удобное шифрование для всех! 🔐
 CryptoNIT - это графическое приложение для **шифрования и расшифровки** текста с помощью **современных алгоритмов**:  
 ✅ **AES** (Advanced Encryption Standard) 🔒  
 ✅ **RSA** (Rivest–Shamir–Adleman) 🔑  
@@ -16,7 +16,7 @@ CryptoNIT - это графическое приложение для **шифр
 
 ---
 
-### 🇬🇧 CryptoNIT - User-friendly Encryption! 🔐
+### CryptoNIT - User-friendly Encryption! 🔐
 CryptoNIT is a graphical application for **encrypting and decrypting** text using **modern algorithms**:  
 ✅ **AES** (Advanced Encryption Standard) 🔒  
 ✅ **RSA** (Rivest–Shamir–Adleman) 🔑  
@@ -29,8 +29,6 @@ CryptoNIT is a graphical application for **encrypting and decrypting** text usin
 ---
 
 ## 🎯 Возможности / Features
-
-### 🇷🇺
 🔐 **Шифрование и расшифровка текста** (AES, RSA, ChaCha20)  
 🛡 **Защищённое хранилище ключей** (с мастер-паролем)  
 🖥 **Интуитивный графический интерфейс** (CustomTkinter)  
@@ -38,7 +36,6 @@ CryptoNIT is a graphical application for **encrypting and decrypting** text usin
 📸 **Генерация и сканирование QR-кодов** (AES и ChaCha20)  
 ⚙ **Настройки шифрования** (AES-режим, nonce для ChaCha20)  
 
-### 🇬🇧
 🔐 **Text encryption and decryption** (AES, RSA, ChaCha20)  
 🛡 **Secure key storage** (protected by a master password)  
 🖥 **Intuitive graphical interface** (CustomTkinter)  
@@ -50,13 +47,13 @@ CryptoNIT is a graphical application for **encrypting and decrypting** text usin
 
 ## 📥 Установка / Installation
 
-### 🇷🇺
+### Русская версия
 ```bash
 pip install -r requirements.txt
 python RUcryptoNIT.py
 ```
 
-### 🇬🇧
+### English version
 ```bash
 pip install -r requirements.txt
 python ENGcryptoNIT.py
@@ -72,12 +69,7 @@ python ENGcryptoNIT.py
 - qrcode 📸  
 - opencv-python 🖼  
 
-### 🇷🇺 Установка зависимостей
-```bash
-pip install customtkinter pycryptodome qrcode opencv-python
-```
-
-### 🇬🇧 Install dependencies
+### Установка зависимостей / Install dependencies
 ```bash
 pip install customtkinter pycryptodome qrcode opencv-python
 ```
@@ -85,20 +77,19 @@ pip install customtkinter pycryptodome qrcode opencv-python
 ---
 
 ## 📝 Пример использования / Usage Example
-
-### 🇷🇺
 1️⃣ Введите текст для шифрования.  
 2️⃣ Выберите алгоритм (**AES / RSA / ChaCha20**).  
 3️⃣ Загрузите или сгенерируйте ключ.  
 4️⃣ Нажмите **"Зашифровать"**.  
-5️⃣ Для расшифровки введите зашифрованный текст и нажмите **"Расшифровать"**.  
+5️⃣ Для расшифровки введите зашифрованный текст и нажмите **"Расшифровать"**.
+6️⃣ Отправьте зашифрованное сообщение через любой канал связи, не беспокоясь о слежке.
 
-### 🇬🇧
 1️⃣ Enter the text to encrypt.  
 2️⃣ Choose an algorithm (**AES / RSA / ChaCha20**).  
 3️⃣ Load or generate a key.  
 4️⃣ Click **"Encrypt"**.  
-5️⃣ To decrypt, enter the encrypted text and click **"Decrypt"**.  
+5️⃣ To decrypt, enter the encrypted text and click **"Decrypt"**.
+6️⃣ Send an encrypted message through any communication channel without worrying about surveillance.
 
 ---
 
@@ -107,4 +98,3 @@ pip install customtkinter pycryptodome qrcode opencv-python
 - **[Forman75](https://github.com/Forman75)**  
 
 💡 *Feel free to contribute and improve this project!*
-
