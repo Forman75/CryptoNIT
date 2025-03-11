@@ -1,0 +1,4 @@
+customtkinter==5.2.2
+pycryptodome==3.21.0
+qrcode==8.0
+opencv-python==4.11.0.86
